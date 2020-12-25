@@ -168,4 +168,5 @@ async function loadTopTeachers(fetchQuery, topType){
     }      
     //Display general and area teachers
 
+    document.querySelector("#searchb").style.display="block";
 }

@@ -5514,3 +5514,7 @@ span .fa {
     margin-top: 4%;
   }
 }
+
+#searchb {
+  display: none;
+}
